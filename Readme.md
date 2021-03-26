@@ -21,3 +21,6 @@ In, Ubuntu :
 sudo apt-get install tesseract-ocr
 ```
 * Now, the only thing left to do is put all your images in **pics** folder and run the program.
+
+### The output should look like : 
+> D.O.B of sample-pan-card.jpg : 01/06/1995 ; PAN Number of sample-pan-card.jpg : ABCDE1234F
